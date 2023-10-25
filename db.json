@@ -1,0 +1,36 @@
+{
+    "Drilling": {
+      "DrillingSites": [
+        "Site A",
+        "Site B",
+        "Site C"
+      ],
+      "DrillingPotential":  {
+        "Site A": 800,
+        "Site B": 950,
+        "Site C": 700
+      },
+      "Investments": [
+        {
+          "Country": "Country X",
+          "Organization": "Company 1",
+          "AmountInvested": 5000000
+        },
+        {
+          "Country": "Country Y",
+          "Organization": "Company 2",
+          "AmountInvested": 7000000
+        }
+      ],
+      "ConditionOfDrillingRigs": {
+        "Site A": "Good",
+        "Site B": "Excellent",
+        "Site C": "Fair"
+      },
+      "CostOfSale": {
+        "Oil": 80.5,
+        "NaturalGas": 4.2,
+        "OtherMaterials": 55.0
+      }
+    }
+  }
