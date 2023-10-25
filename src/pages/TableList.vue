@@ -26,7 +26,7 @@
 </template>
 <script>
 import { BaseTable } from "@/components";
-const tableColumns = ["Name", "Investment Country", "City", "Salary"];
+const tableColumns = ["Name", "Country", "City", "Salary"];
 const tableData = [
   {
     id: 1,
